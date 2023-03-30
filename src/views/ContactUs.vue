@@ -123,7 +123,7 @@
   }
 </script>
 
-<style scooped>
+<style scoped>
     .heroContact {
         margin-top: -101.778px;
     }

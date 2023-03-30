@@ -10,8 +10,8 @@
                         <!-- Logo
                         ============================================= -->
                         <div id="logo">
-                            <a href="index.html" class="standard-logo"><img src="demos/recipes/images/logo.png" alt="Canvas Logo"></a>
-                            <a href="index.html" class="retina-logo"><img src="demos/recipes/images/logo@2x.png" alt="Canvas Logo"></a>
+                            <a href="/" class="standard-logo"><img src="demos/recipes/images/logo.png" alt="Canvas Logo"></a>
+                            <a href="/" class="retina-logo"><img src="demos/recipes/images/logo@2x.png" alt="Canvas Logo"></a>
                         </div><!-- #logo end -->
     
                         <div class="header-misc">
@@ -33,19 +33,19 @@
                         <nav class="primary-menu">
     
                             <ul class="menu-container">
-                                <li class="menu-item current"><a class="menu-link" href="demo-recipes.html"><div>Home</div></a></li>
-                                <li class="menu-item"><a class="menu-link" href="demo-recipes-about-us.html"><div>About Us</div></a></li>
-                                <li class="menu-item"><a class="menu-link" href="demo-recipes-recipes.html"><div>Recipes <i class="icon-angle-down1 d-none d-lg-inline-block"></i></div></a>
+                                <li class="menu-item current"><a class="menu-link" href="/"><div>Home</div></a></li>
+                                <li class="menu-item"><a class="menu-link" href="contact-us"><div>About Us</div></a></li>
+                                <li class="menu-item"><a class="menu-link" href="recipes-all"><div>Recipes <i class="icon-angle-down1 d-none d-lg-inline-block"></i></div></a>
                                     <ul class="sub-menu-container rounded-bottom">
-                                        <li class="menu-item"><a class="menu-link" href="demo-recipes-recipe-single.html"><div>Recipe Single Page</div></a></li>
+                                        <li class="menu-item"><a class="menu-link" href="recipes-detail"><div>Recipe Single Page</div></a></li>
                                         <div class="dropdown-divider my-0"></div>
-                                        <li class="menu-item"><a class="menu-link" href="demo-recipes-recipes.html"><div>Popular</div></a></li>
-                                        <li class="menu-item"><a class="menu-link" href="demo-recipes-recipes.html"><div>Recent</div></a></li>
-                                        <li class="menu-item"><a class="menu-link" href="demo-recipes-recipes.html"><div>Most liked</div></a></li>
-                                        <li class="menu-item"><a class="menu-link" href="demo-recipes-recipes.html"><div>Most Commented</div></a></li>
+                                        <li class="menu-item"><a class="menu-link" href="recipes-all"><div>Popular</div></a></li>
+                                        <li class="menu-item"><a class="menu-link" href="recipes-all"><div>Recent</div></a></li>
+                                        <li class="menu-item"><a class="menu-link" href="recipes-all"><div>Most liked</div></a></li>
+                                        <li class="menu-item"><a class="menu-link" href="recipes-all"><div>Most Commented</div></a></li>
                                     </ul>
                                 </li>
-                                <li class="menu-item"><a class="menu-link" href="demo-recipes-contact.html"><div>Contact Us</div></a></li>
+                                <li class="menu-item"><a class="menu-link" href="contact-us"><div>Contact Us</div></a></li>
                             </ul>
     
                         </nav><!-- #primary-menu end -->
